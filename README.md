@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THELITEESHREDDY
 - 👀 I’m interested in Open-Source and building projects
-- 🌱 I’m currently learning Problem Solving + Stack
+- 🌱 I’m currently learning DevAndDSA
 - 💞️ I’m looking to collaborate on REAL-TIME projects 
 - 📫 reach me e-mail: liteeshreddypotlapalli.3605@gmail.com 
 - 😄 Pronouns: thinking to add
