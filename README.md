@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @THELITEESHREDDY
+- 👋 Hi, I’m Potlapalli Liteesh Reddy
 - 👀 I’m interested in Open-Source and building projects
 - 🌱 I’m currently learning DevAndDSA
 - 💞️ I’m looking to collaborate on REAL-TIME projects 
