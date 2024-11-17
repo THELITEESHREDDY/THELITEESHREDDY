@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open-Source and building projects
 - 🌱 I’m currently learning DevAndDSA
 - 💞️ I’m looking to collaborate on REAL-TIME projects 
-- 📫 reach me e-mail: liteeshreddypotlapalli.3605@gmail.com 
+- 📫 reach me linkedin: https://www.linkedin.com/in/liteesh-reddy 
 - 😄 Pronouns: thinking to add
 - ⚡ Fun fact: Pushing something releases lot's of stress
 
